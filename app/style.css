@@ -106,6 +106,12 @@ div {
 	padding: 0px 0px 0px 0px;
 }
 
+/* Resume Div */
+
+.resumediv {
+	margin-top: 40px;
+}
+
 /* Download Resume */
 
 .download {
