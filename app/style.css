@@ -137,16 +137,16 @@ div {
 .download-button {
 	border-top-width: 3px;
 	border-top-style: solid;
-	border-top-color: #003300;
+	border-top-color: rgb(100,100,100);
 	border-bottom-width: 3px;
 	border-bottom-style: solid;
-	border-bottom-color: #003300;
+	border-bottom-color: rgb(100,100,100);
 	border-right-width: 3px;
 	border-right-style: solid;
-	border-right-color: #003300;
+	border-right-color: rgb(100,100,100);
 	border-left-width: 3px;
 	border-left-style: solid;
-	border-left-color: #003300;
+	border-left-color: rgb(100,100,100);
 	padding: 20px;
 	text-align: center;
 	font-style: normal;
@@ -159,6 +159,7 @@ div {
   	left: 20%;
   	transform: translate(-50%, -10%);
   	-ms-transform: translate(-50%, -10%);
+  	background-color: rgb(100,100,100);
 }
 
 .resume-pic {
@@ -167,6 +168,7 @@ div {
 	margin-right: auto;
 	width: 100%;
 	padding: 0px 0px 0px 0px;
+	height: 500px;
 }
 
 /* Footer information */
