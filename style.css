@@ -96,6 +96,7 @@ div {
 .main-nav {
 	display: flex;
 	justify-content: center;
+	text-align: center;
 }
 
 .center {
