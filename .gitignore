@@ -63,3 +63,6 @@ typings/
 
 /ignore/
 ignore/
+app.js
+package-lock.json
+package.json
